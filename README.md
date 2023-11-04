@@ -1,1 +1,1 @@
-# mersenne_twister
+#### MT19937 Mersenne Twister RNG implementations
